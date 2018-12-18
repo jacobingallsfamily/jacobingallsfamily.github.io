@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://jacobingallsfamily.com/sitemap.xml
