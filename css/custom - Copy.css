@@ -1,0 +1,25 @@
+body{
+	background-image: url(/img/bg-pattern.png);
+}
+
+.post-link{
+	font-family: 'Nixie One', sans;
+}
+
+.post-content ul, .post-content ol {
+    line-height: 1.4em;
+    font-size: smaller;
+}
+
+.post .post-content p {
+  font-size: 16px;
+  line-height: 1.5;
+  font-family: 'Merriweather', serif;
+  color: #444;
+}
+
+.logo {
+	font-family: 'Merriweather', serif;
+	color: #7ab80e;
+}
+
